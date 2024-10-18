@@ -4,18 +4,14 @@ enlaces para verificar los hack de html-1
 Alumno Adonis Daller
 
 
-|Hacks   H-6 |   |  |
-|-----------------------------------------------------------------------------------------------------|
-| Hacks   H-1 |  
+|Hacks | Enlaces | Deploy |
+|----------|---------|---------|
+| Hacks   H-1 | https://github.com/Josblack25/html-1-H1.git | https://josblack25.github.io/html-1-H1/ |
 | Hacks   H-2 | https://github.com/Josblack25/html-1-H2.git | https://josblack25.github.io/html-1-H2/ |
 | Hacks   H-3 | https://github.com/Josblack25/html-1-H3.git | https://josblack25.github.io/html-1-H3/ |
 | Hacks   H-4 | https://github.com/Josblack25/html-1-H4.git | https://josblack25.github.io/html-1-H4/ |
 | Hacks   H-5 | https://github.com/Josblack25/html-1-H5.git | https://josblack25.github.io/html-1-H5/ |
 | Hacks   H-6 | https://github.com/Josblack25/html-1-H6.git | https://josblack25.github.io/html-1-H6/ | 
-
-|Hacks | Enlaces | Deploy |
-|----------|---------|---------|
-| H-1      | https://github.com/Josblack25/html-1-H1.git | https://josblack25.github.io/html-1-H1/ |
 
 PULL_REQUEST_TEMPLATE
 # Tecnología
