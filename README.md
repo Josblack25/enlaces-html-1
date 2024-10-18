@@ -13,14 +13,9 @@ Alumno Adonis Daller
 | Hacks   H-5 | https://github.com/Josblack25/html-1-H5.git | https://josblack25.github.io/html-1-H5/ |
 | Hacks   H-6 | https://github.com/Josblack25/html-1-H6.git | https://josblack25.github.io/html-1-H6/ | 
 
-|Hacks  | H-4 | 
-|----------------------------------------------------------|
-| Details                                                  |
-|                                                          |
-|Crear el hack con las habilidades vistas en clases:       |
-|   - diseñar únicamente mediante position / float / flex. |
-|   - tú decides cuales aplicar para lograr el objetivo.   |
-
+|Hacks | Details | 
+|----------|---------|
+| H-1      | Position or Free Mode |
 
 PULL_REQUEST_TEMPLATE
 # Tecnología
