@@ -5,7 +5,7 @@ Alumno Adonis Daller
 
 
 |Hacks   H-6 |  Enlaces | Deploy |
-|----------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------|
 | Hacks   H-1 | https://github.com/Josblack25/html-1-H1.git | https://josblack25.github.io/html-1-H1/ |
 | Hacks   H-2 | https://github.com/Josblack25/html-1-H2.git | https://josblack25.github.io/html-1-H2/ |
 | Hacks   H-3 | https://github.com/Josblack25/html-1-H3.git | https://josblack25.github.io/html-1-H3/ |
